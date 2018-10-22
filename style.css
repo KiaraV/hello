@@ -1,0 +1,20 @@
+.navbar {
+    background-color: silver !important;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.navbar a {
+    color: black !important;
+    opacity: .5;
+}
+
+.navbar a:hover{
+    color: black !important;
+    opacity: 1;
+}
+
+#services h2 {
+    background-color: green;
+    color: black;
+}
